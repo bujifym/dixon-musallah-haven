@@ -365,7 +365,7 @@ function Home() {
     <div className="min-h-screen bg-background scroll-smooth">
       <Header />
       <main>
-        <Hero />
+        
         <PrayerTimes />
         <Jummah />
         <CalendarSection />
