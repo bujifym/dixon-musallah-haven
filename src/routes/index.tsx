@@ -102,7 +102,7 @@ function Header() {
     <header className="sticky top-0 z-50 backdrop-blur bg-background/85 border-b border-border">
       <div className="max-w-6xl mx-auto px-5 md:px-8 h-16 md:h-20 flex items-center justify-between">
         <a href="#top" className="flex items-center gap-3">
-          <span className="w-9 h-9 rounded-full bg-[var(--gradient-deep)] grid place-items-center text-[var(--gold)] font-display text-xl">د</span>
+          
           <span className="font-display text-xl md:text-2xl text-primary">Dixon Musallah</span>
         </a>
         <nav className="hidden md:flex items-center gap-8 text-sm text-foreground/80">
